@@ -1,0 +1,1045 @@
+[
+  {
+    "by": "mooreds",
+    "descendants": 0,
+    "id": 23069148,
+    "score": 1,
+    "time": 1588606001,
+    "title": "Using the FusionAuth .NET Core client libraries",
+    "type": "story",
+    "url": "https://fusionauth.io/blog/2020/04/28/dot-net-command-line-client"
+  },
+  {
+    "by": "samizdis",
+    "descendants": 0,
+    "id": 23069132,
+    "score": 2,
+    "time": 1588605921,
+    "title": "Print your own laboratory-grade microscope for US$18",
+    "type": "story",
+    "url": "https://phys.org/news/2020-05-laboratory-grade-microscope-us18.html"
+  },
+  {
+    "by": "reedwolf",
+    "descendants": 0,
+    "id": 23069131,
+    "score": 1,
+    "time": 1588605919,
+    "title": "Why China Executes So Many People (2013)",
+    "type": "story",
+    "url": "https://www.theatlantic.com/china/archive/2013/05/why-china-executes-so-many-people/275695/"
+  },
+  {
+    "by": "pyprism",
+    "descendants": 0,
+    "id": 23069114,
+    "score": 1,
+    "time": 1588605842,
+    "title": "Backblaze B2 Cloud Storage Now Has S3 Compatible APIs",
+    "type": "story",
+    "url": "https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/"
+  },
+  {
+    "by": "groovy-sky",
+    "descendants": 1,
+    "id": 23069112,
+    "kids": [
+      23069133
+    ],
+    "score": 1,
+    "time": 1588605837,
+    "title": "Show HN: Collect Azure/Office 365 IP using Azure function",
+    "type": "story",
+    "url": "https://github.com/groovy-sky/azure/tree/master/func-parse-cloud-00#introduction"
+  },
+  {
+    "by": "ryanwaggoner",
+    "descendants": 0,
+    "id": 23069099,
+    "score": 1,
+    "time": 1588605794,
+    "title": "No, I won't read your amateur Covid-19 “research paper”",
+    "type": "story",
+    "url": "https://ryanwaggoner.substack.com/p/no-i-wont-read-your-amateur-covid"
+  },
+  {
+    "by": "kinzebret",
+    "descendants": 0,
+    "id": 23069094,
+    "score": 1,
+    "text": "I think there are so many funny and typical things on programming blogs.<p>- &quot;Hello World&quot; as first post\n- PGP key on the contact page\n- BTC wallet address to support, because running this webhosting is too expensive\n- GitHub patch to the really important GitHub scripts\n- Publishing the 33550336th tutorial on how to start with the python\n- inactive after 1 month",
+    "time": 1588605775,
+    "title": "What is typical for a programming blog?",
+    "type": "story"
+  },
+  {
+    "by": "zwieback",
+    "descendants": 0,
+    "id": 23069081,
+    "score": 1,
+    "time": 1588605697,
+    "title": "The Easy Questions That Stump Computers",
+    "type": "story",
+    "url": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/"
+  },
+  {
+    "by": "swolpers",
+    "descendants": 0,
+    "id": 23069019,
+    "score": 1,
+    "time": 1588605370,
+    "title": "Remote Agile (Part 8): Daily Scrum with Distributed Teams",
+    "type": "story",
+    "url": "https://age-of-product.com/remote-daily-scrum-distributed-teams/"
+  },
+  {
+    "by": "lilrhody",
+    "descendants": 0,
+    "id": 23069015,
+    "score": 4,
+    "time": 1588605357,
+    "title": "Hydroxychloroquine and the Political Polarization of Science",
+    "type": "story",
+    "url": "https://bostonreview.net/science-nature-politics/cailin-oconnor-james-owen-weatherall-hydroxychloroquine-and-political"
+  },
+  {
+    "by": "eternalban",
+    "descendants": 0,
+    "id": 23069011,
+    "score": 1,
+    "time": 1588605316,
+    "title": "Efficiently Reclaiming Space in a Log Structured Store (2020)",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2005.00044"
+  },
+  {
+    "by": "elsewhen",
+    "descendants": 0,
+    "id": 23069001,
+    "score": 5,
+    "time": 1588605278,
+    "title": "Link between Vitamin D deficiency and more serious Covid-19 symptoms",
+    "type": "story",
+    "url": "https://www.telegraph.co.uk/news/2020/05/03/time-take-seriously-link-vitamin-d-deficiency-serious-covid/"
+  },
+  {
+    "by": "Winner79",
+    "descendants": 0,
+    "id": 23068989,
+    "score": 1,
+    "time": 1588605203,
+    "title": "A Full Time Student Guide to Find a Job with Flexible Hours",
+    "type": "story",
+    "url": "https://www.efor-real.com/5783/full-time-student-guide-find-job-flexible-hours/"
+  },
+  {
+    "by": "ArneVogel",
+    "descendants": 0,
+    "id": 23068967,
+    "score": 2,
+    "time": 1588605049,
+    "title": "Show HN: Knight Maneuver – A chess mini game",
+    "type": "story",
+    "url": "https://taktikspiel.com/app/knight-maneuver/"
+  },
+  {
+    "by": "stas_sh",
+    "descendants": 0,
+    "id": 23068942,
+    "score": 1,
+    "time": 1588604921,
+    "title": "Programmatic Advertising Explained: Terms, Elements, Buying Methods",
+    "type": "story",
+    "url": "https://blog.admixer.com/programmatic-advertising-explained/"
+  },
+  {
+    "by": "andrewljohnson",
+    "descendants": 0,
+    "id": 23068928,
+    "score": 1,
+    "time": 1588604835,
+    "title": "NASA evaluation sees SpaceX lunar lander as innovative but risky",
+    "type": "story",
+    "url": "https://spacenews.com/nasa-evaluation-sees-spacex-lunar-lander-as-innovative-but-risky/"
+  },
+  {
+    "by": "ihucos",
+    "descendants": 0,
+    "id": 23068927,
+    "score": 2,
+    "time": 1588604834,
+    "title": "Show HN: Virtualenv for everything",
+    "type": "story",
+    "url": "https://github.com/ihucos/zvenv"
+  },
+  {
+    "by": "kirotawa",
+    "descendants": 0,
+    "id": 23068897,
+    "score": 1,
+    "time": 1588604699,
+    "title": "The art of be polite or something like this",
+    "type": "story",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=905237#56"
+  },
+  {
+    "by": "vo2maxer",
+    "descendants": 0,
+    "id": 23068893,
+    "score": 2,
+    "time": 1588604674,
+    "title": "A Shiny Snack Bag’s Reflections Can Reconstruct the Room Around It",
+    "type": "story",
+    "url": "https://www.scientificamerican.com/article/a-shiny-snack-bags-reflections-can-reconstruct-the-room-around-it/"
+  },
+  {
+    "by": "laurex",
+    "descendants": 0,
+    "id": 23068880,
+    "score": 1,
+    "time": 1588604628,
+    "title": "The U.S. May Have Trouble Restarting Canada’s Sport",
+    "type": "story",
+    "url": "https://fivethirtyeight.com/features/the-u-s-may-have-trouble-restarting-canadas-sport/"
+  },
+  {
+    "by": "emiliowav",
+    "descendants": 0,
+    "id": 23068865,
+    "score": 1,
+    "time": 1588604579,
+    "title": "Remote Job Searches Surge in March",
+    "type": "story",
+    "url": "http://www.yac.com/blog/remote-job-searches-surge-in-march"
+  },
+  {
+    "by": "OrganizedChaos",
+    "descendants": 0,
+    "id": 23068858,
+    "score": 1,
+    "time": 1588604544,
+    "title": "Tech Giants Shrug Off Covid-19 Crisis in Q1",
+    "type": "story",
+    "url": "https://www.cybercoastal.com/tech-giants-shrug-off-covid-19-crisis-in-q1/"
+  },
+  {
+    "by": "tejadafx",
+    "descendants": 0,
+    "id": 23068853,
+    "score": 1,
+    "time": 1588604528,
+    "title": "Battery and Electric Cars",
+    "type": "story",
+    "url": "http://bateriaups.tk"
+  },
+  {
+    "by": "burke",
+    "descendants": 0,
+    "id": 23068849,
+    "score": 1,
+    "time": 1588604508,
+    "title": "Using Nix to prettify `ls` on macOS",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=1nU_hR2kod4&list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs&index=6&t=0s"
+  },
+  {
+    "by": "andyjohnson0",
+    "descendants": 0,
+    "id": 23068847,
+    "score": 1,
+    "time": 1588604490,
+    "title": "Wired Union",
+    "type": "story",
+    "url": "https://wiredunion.com/"
+  },
+  {
+    "by": "rchaudhary",
+    "descendants": 0,
+    "id": 23068840,
+    "score": 1,
+    "time": 1588604460,
+    "title": "Coronavirus sensor you stick at the top of your chest can track symptoms",
+    "type": "story",
+    "url": "https://www.cnet.com/news/new-sensor-you-stick-on-your-chest-can-detect-covid-19/"
+  },
+  {
+    "by": "makaroni1",
+    "descendants": 0,
+    "id": 23068835,
+    "score": 1,
+    "time": 1588604424,
+    "title": "Customer journey hijacking prevention tool Namogoo acquires Personali for its",
+    "type": "story",
+    "url": "https://techcrunch.com/2020/05/04/namogoo-personali/"
+  },
+  {
+    "by": "todsacerdoti",
+    "descendants": 0,
+    "id": 23068825,
+    "score": 1,
+    "time": 1588604375,
+    "title": "Gadget Review: Perixx Trackball (Peripro-506) on Linux / Mac",
+    "type": "story",
+    "url": "https://shkspr.mobi/blog/2020/05/gadget-review-perixx-trackball-peripro-506-on-linux-mac/"
+  },
+  {
+    "by": "n00bdude",
+    "descendants": 0,
+    "id": 23068820,
+    "score": 1,
+    "text": "I searched on DDG &amp; Google but couldn’t find anything.<p>To me this is crazy.<p>You can do it in iPhotos.<p>Is there a settings option I’m missing?<p>Help!",
+    "time": 1588604357,
+    "title": "Ask HN: Why Can’t You SideSwipe Between Notes in iNotes?",
+    "type": "story"
+  },
+  {
+    "by": "laurex",
+    "descendants": 0,
+    "id": 23068819,
+    "score": 3,
+    "time": 1588604353,
+    "title": "Covid-19 infection rate in low income zip codes is 2x the nation’s wealthiest",
+    "type": "story",
+    "url": "https://www.usatoday.com/in-depth/news/nation/2020/05/02/coronavirus-impact-black-minority-white-neighborhoods-chicago-detroit/3042630001/"
+  },
+  {
+    "by": "todsacerdoti",
+    "descendants": 0,
+    "id": 23068818,
+    "score": 1,
+    "time": 1588604350,
+    "title": "GDScript Progress Writing a Tokenizer",
+    "type": "story",
+    "url": "https://godotengine.org/article/gdscript-progress-report-writing-tokenizer"
+  },
+  {
+    "by": "robin_reala",
+    "descendants": 0,
+    "id": 23068806,
+    "score": 1,
+    "time": 1588604299,
+    "title": "The PHP function hashing mechanism was strlen()",
+    "type": "story",
+    "url": "https://news-web.php.net/php.internals/70691"
+  },
+  {
+    "by": "sirkarthik",
+    "descendants": 0,
+    "id": 23068803,
+    "score": 1,
+    "time": 1588604278,
+    "title": "Pre-Warming AWS Lambda Functions",
+    "type": "story",
+    "url": "https://blog.codonomics.com/2020/05/pre-warming-aws-lambda-functions.html"
+  },
+  {
+    "by": "wanderer42",
+    "descendants": 1,
+    "id": 23068781,
+    "kids": [
+      23068809
+    ],
+    "score": 1,
+    "time": 1588604185,
+    "title": "Ask HN: What is the churn in the SaaS product you're working? And why is it so?",
+    "type": "story"
+  },
+  {
+    "by": "NN88",
+    "descendants": 0,
+    "id": 23068772,
+    "score": 2,
+    "time": 1588604160,
+    "title": "Low-Quality Masks Infiltrate U.S. Coronavirus Supply",
+    "type": "story",
+    "url": "https://www.wsj.com/articles/we-werent-protected-low-quality-masks-infiltrate-u-s-coronavirus-supply-11588528690"
+  },
+  {
+    "by": "craigkerstiens",
+    "descendants": 2,
+    "id": 23068769,
+    "kids": [
+      23069090,
+      23068889
+    ],
+    "score": 2,
+    "time": 1588604154,
+    "title": "\\Watch Star Wars in Postgres",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=v32XHJxljKI"
+  },
+  {
+    "by": "simonpure",
+    "descendants": 0,
+    "id": 23068766,
+    "score": 2,
+    "time": 1588604137,
+    "title": "Modding Minecraft with Clojure",
+    "type": "story",
+    "url": "https://github.com/nyampass/halacraft"
+  },
+  {
+    "by": "fanf2",
+    "descendants": 0,
+    "id": 23068763,
+    "score": 1,
+    "time": 1588604112,
+    "title": "Things that could be improved in PostgreSQL",
+    "type": "story",
+    "url": "https://www.cybertec-postgresql.com/en/things-could-be-improved-postgresql/"
+  },
+  {
+    "by": "kevlar1818",
+    "descendants": 1,
+    "id": 23068759,
+    "kids": [
+      23068780
+    ],
+    "score": 42,
+    "time": 1588604100,
+    "title": "Amazon locks down internal employee communications amid organizing efforts",
+    "type": "story",
+    "url": "https://arstechnica.com/tech-policy/2020/04/amazon-locks-down-internal-employee-communications-amid-organizing-efforts/"
+  },
+  {
+    "by": "armandol",
+    "descendants": 0,
+    "id": 23068749,
+    "score": 3,
+    "time": 1588603994,
+    "title": "The VC Barbarians Are Coming",
+    "type": "story",
+    "url": "https://marker.medium.com/vc-terms-return-of-the-barbarians-77149fe2be88"
+  },
+  {
+    "by": "BillPollak",
+    "descendants": 0,
+    "id": 23068746,
+    "score": 1,
+    "time": 1588603952,
+    "title": "Managing Time as the Limiting Resource",
+    "type": "story",
+    "url": "https://insights.sei.cmu.edu/sei_blog/2020/05/stop-wasting-time-manage-time-as-the-limiting-resource.html"
+  },
+  {
+    "by": "gandalfgeek",
+    "descendants": 0,
+    "id": 23068740,
+    "score": 2,
+    "time": 1588603907,
+    "title": "How Unix Won",
+    "type": "story",
+    "url": "https://blog.vivekhaldar.com/post/617189040564928512/how-unix-won"
+  },
+  {
+    "by": "joeykaan",
+    "descendants": 0,
+    "id": 23068726,
+    "score": 1,
+    "time": 1588603845,
+    "title": "Enhancing CLI Commands with FZF",
+    "type": "story",
+    "url": "https://coderamblings.dev/posts/enhancing-commands-with-fzf/"
+  },
+  {
+    "by": "mrtedbear",
+    "descendants": 0,
+    "id": 23068717,
+    "score": 2,
+    "time": 1588603793,
+    "title": "Turing Tumble Board Game",
+    "type": "story",
+    "url": "https://www.turingtumble.com/"
+  },
+  {
+    "by": "jackfoxy",
+    "descendants": 0,
+    "id": 23068715,
+    "score": 3,
+    "time": 1588603786,
+    "title": "Why eco-leftists are suddenly turning on Michael Moore",
+    "type": "story",
+    "url": "https://nypost.com/2020/05/02/why-eco-leftists-are-suddenly-turning-on-michael-moore/"
+  },
+  {
+    "by": "sedlav",
+    "descendants": 0,
+    "id": 23068706,
+    "score": 1,
+    "time": 1588603721,
+    "title": "CentOS or Fedora?",
+    "type": "story",
+    "url": "https://www.librebyte.net/en/operating-system/centos-or-fedora/"
+  },
+  {
+    "by": "asidiali",
+    "descendants": 0,
+    "id": 23068686,
+    "score": 3,
+    "time": 1588603630,
+    "title": "Show HN: Booklit – simple, expressive content publishing",
+    "type": "story",
+    "url": "https://booklitapp.com"
+  },
+  {
+    "by": "hhs",
+    "descendants": 0,
+    "id": 23068675,
+    "score": 3,
+    "time": 1588603570,
+    "title": "My urge to splurge is over and won’t be returning soon",
+    "type": "story",
+    "url": "https://www.ft.com/content/6fbd1ff4-8b01-11ea-9dcb-fe6871f4145a"
+  },
+  {
+    "by": "gscho",
+    "descendants": 0,
+    "id": 23068672,
+    "score": 9,
+    "time": 1588603550,
+    "title": "Show HN: ShuttleOps – A New No-Code CI/CD Solution with a Free Tier",
+    "type": "story",
+    "url": "https://www.shuttleops.io/"
+  },
+  {
+    "by": "tantalor",
+    "descendants": 0,
+    "id": 23068655,
+    "score": 2,
+    "time": 1588603444,
+    "title": "Supreme Court Broadcasts Oral Arguments for First Time",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=nDJEqmVBlrk"
+  },
+  {
+    "by": "SCGTarot",
+    "descendants": 1,
+    "id": 23068648,
+    "kids": [
+      23068649
+    ],
+    "score": 2,
+    "time": 1588603388,
+    "title": "I created the perfect TAROT DECK and it's on Kickstarter – and 240% funded",
+    "type": "story",
+    "url": "https://www.kickstarter.com/projects/scgtarot/rider-waite-renewed-a-dream-tarot-deck-created-by-scg/description"
+  },
+  {
+    "by": "pseudolus",
+    "descendants": 0,
+    "id": 23068647,
+    "score": 1,
+    "time": 1588603381,
+    "title": "Billy Mitchell takes his Donkey Kong high-score cheating case to court",
+    "type": "story",
+    "url": "https://arstechnica.com/gaming/2020/05/billy-mitchell-takes-his-donkey-kong-high-score-cheating-case-to-court/"
+  },
+  {
+    "by": "dhruvkar",
+    "descendants": 0,
+    "id": 23068644,
+    "score": 3,
+    "text": "Is there a simple way to add encryption to a static site (e.g. hugo, jekyll etc.) and it can be decrypted on the browser without a backend?<p>This would be for something like a personal journal or close-friends only blog posts while keep the rest of the site open.",
+    "time": 1588603366,
+    "title": "Ask HN: Encryption for blog posts on static sites?",
+    "type": "story"
+  },
+  {
+    "by": "sedlav",
+    "descendants": 0,
+    "id": 23068634,
+    "score": 1,
+    "time": 1588603334,
+    "title": "How to join images from the command line",
+    "type": "story",
+    "url": "https://www.librebyte.net/en/multimedia/how-to-join-images-from-the-command-line/"
+  },
+  {
+    "by": "vo2maxer",
+    "descendants": 0,
+    "id": 23068616,
+    "score": 1,
+    "time": 1588603257,
+    "title": "Google Meet, Google’s Zoom competitor, is now free for everyone",
+    "type": "story",
+    "url": "https://arstechnica.com/gadgets/2020/04/google-meet-googles-third-video-chat-service-is-now-free-for-everyone/"
+  },
+  {
+    "by": "severine",
+    "descendants": 0,
+    "id": 23068615,
+    "score": 2,
+    "time": 1588603250,
+    "title": "Xfce Switches to Gitlab",
+    "type": "story",
+    "url": "https://simon.shimmerproject.org/2020/04/30/xfce-switches-to-gitlab/"
+  },
+  {
+    "by": "bustylasercanon",
+    "descendants": 0,
+    "id": 23068610,
+    "score": 1,
+    "time": 1588603233,
+    "title": "Show HN: A real-time crowd sourced follower guide for Twitter written in Elixir",
+    "type": "story",
+    "url": "https://www.followguide.io/"
+  },
+  {
+    "by": "prostoalex",
+    "descendants": 0,
+    "id": 23068600,
+    "score": 2,
+    "time": 1588603197,
+    "title": "Japan’s Coronavirus Cases Fall Sharply Without Compulsory Measures",
+    "type": "story",
+    "url": "https://www.wsj.com/articles/japans-coronavirus-cases-fall-sharply-without-compulsory-measures-11587993871"
+  },
+  {
+    "by": "gscode",
+    "descendants": 1,
+    "id": 23068592,
+    "kids": [
+      23068733
+    ],
+    "score": 1,
+    "time": 1588603181,
+    "title": "CSS Digital Clock Animation",
+    "type": "story",
+    "url": "https://dev.to/gscode/10-css-digital-clock-animation-1763"
+  },
+  {
+    "by": "vo2maxer",
+    "descendants": 0,
+    "id": 23068579,
+    "score": 1,
+    "time": 1588603085,
+    "title": "With new 13-inch MacBook Pro, Apple waves goodbye to the butterfly keyboard",
+    "type": "story",
+    "url": "https://arstechnica.com/gadgets/2020/05/apple-updates-13-inch-macbook-pro-with-new-keyboard-and-more-storage/"
+  },
+  {
+    "by": "hhs",
+    "descendants": 0,
+    "id": 23068576,
+    "score": 1,
+    "time": 1588603072,
+    "title": "How smartphones enhance consumer self-disclosure",
+    "type": "story",
+    "url": "https://journals.sagepub.com/doi/10.1177/0022242920912732"
+  },
+  {
+    "by": "ricardomcgowan",
+    "descendants": 0,
+    "id": 23068572,
+    "score": 1,
+    "time": 1588603047,
+    "title": "Jaron Lanier on how social media ruins your life",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=kc_Jq42Og7Q"
+  },
+  {
+    "by": "eusebio",
+    "descendants": 0,
+    "id": 23068570,
+    "score": 4,
+    "time": 1588603046,
+    "title": "How long you should wait for another person to join a video call",
+    "type": "story",
+    "url": "http://blog.amplemarket.com/how-much-time-should-you-wait-for-another-person-to-join-a-video-call-a-mathematical-approach#newsletter"
+  },
+  {
+    "by": "MaleficentUnion",
+    "descendants": 0,
+    "id": 23068567,
+    "score": 1,
+    "time": 1588603030,
+    "title": "Finding Heartbleed",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=KSj3M1E0WlU"
+  },
+  {
+    "by": "stared",
+    "descendants": 1,
+    "id": 23068556,
+    "kids": [
+      23068735
+    ],
+    "score": 1,
+    "time": 1588602943,
+    "title": "Interface in Game – an encyclopedia of video game UI screenshots",
+    "type": "story",
+    "url": "https://interfaceingame.com/"
+  },
+  {
+    "by": "mddanishyusuf",
+    "descendants": 0,
+    "id": 23068554,
+    "score": 1,
+    "time": 1588602938,
+    "title": "Telegram Notification Bot without Back end",
+    "type": "story",
+    "url": "https://nocodeapi.com/telegram-bot-with-nocode-and-get-notifications"
+  },
+  {
+    "by": "pseudolus",
+    "descendants": 0,
+    "id": 23068549,
+    "score": 4,
+    "time": 1588602922,
+    "title": "'Happy hypoxia': unusual coronavirus effect baffles doctors",
+    "type": "story",
+    "url": "https://www.theguardian.com/world/2020/may/03/happy-hypoxia-unusual-coronavirus-effect-baffles-doctors"
+  },
+  {
+    "by": "hhs",
+    "descendants": 0,
+    "id": 23068540,
+    "score": 2,
+    "time": 1588602904,
+    "title": "Window to another world: Life is bubbling up to seafloor from deep below",
+    "type": "story",
+    "url": "https://www.eurekalert.org/pub_releases/2020-05/mbl-wta050120.php"
+  },
+  {
+    "by": "fortnite",
+    "descendants": 0,
+    "id": 23068535,
+    "score": 1,
+    "time": 1588602883,
+    "title": "How to Get Free V Bucks on Fortnite (Generator Guide)",
+    "type": "story",
+    "url": "https://fortnite-aimbot.com/2020/04/22/free-v-bucks/"
+  },
+  {
+    "by": "petersider",
+    "descendants": 0,
+    "id": 23068531,
+    "score": 1,
+    "time": 1588602865,
+    "title": "The Simplest Open Source Java Calculator (For Newbies)",
+    "type": "story",
+    "url": "https://github.com/pH-7/Simple-Java-Calculator"
+  },
+  {
+    "by": "jotaen",
+    "descendants": 2,
+    "id": 23068528,
+    "kids": [
+      23068727
+    ],
+    "score": 3,
+    "time": 1588602860,
+    "title": "Mental Poker: dealing cards, peer to peer",
+    "type": "story",
+    "url": "https://www.jotaen.net/2A4BQ/mental-poker-explained/"
+  },
+  {
+    "by": "herodotus",
+    "descendants": 0,
+    "id": 23068524,
+    "score": 2,
+    "time": 1588602812,
+    "title": "Write for the Future – if you can get away with it",
+    "type": "story",
+    "url": "https://billwadge.wordpress.com/2020/05/04/write-for-the-future-if-you-can-get-away-with-it/"
+  },
+  {
+    "by": "theafh",
+    "descendants": 0,
+    "id": 23068518,
+    "score": 3,
+    "time": 1588602777,
+    "title": "Arrows of Time",
+    "type": "story",
+    "url": "https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/"
+  },
+  {
+    "by": "hhs",
+    "descendants": 0,
+    "id": 23068504,
+    "score": 1,
+    "time": 1588602704,
+    "title": "Economists need to abandon their comfort zones",
+    "type": "story",
+    "url": "https://www.ft.com/content/e1945718-8b84-11ea-9dcb-fe6871f4145a"
+  },
+  {
+    "by": "whatrocks",
+    "descendants": 0,
+    "id": 23068502,
+    "score": 1,
+    "time": 1588602695,
+    "title": "Mindstorms",
+    "type": "story",
+    "url": "https://www.charlieharrington.com/mindstorms"
+  },
+  {
+    "by": "Brajeshwar",
+    "descendants": 0,
+    "id": 23068497,
+    "score": 1,
+    "time": 1588602667,
+    "title": "Cloudflare Changed?",
+    "type": "story",
+    "url": "https://github.com/VeNoMouS/cloudscraper/issues/209"
+  },
+  {
+    "by": "aspenmayer",
+    "descendants": 1,
+    "id": 23068470,
+    "kids": [
+      23068471
+    ],
+    "score": 1,
+    "time": 1588602547,
+    "title": "Anti-quarantine protesters kicked off Facebook find refuge conspiracy theorists",
+    "type": "story",
+    "url": "https://www.businessinsider.com/anti-quarantine-protesters-mewe-facebook-groups-conspiracy-theorists-social-media-2020-5"
+  },
+  {
+    "by": "shakes",
+    "descendants": 0,
+    "id": 23068460,
+    "score": 1,
+    "time": 1588602496,
+    "title": "Dropbox: Our journey to type checking 4M lines of Python",
+    "type": "story",
+    "url": "https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python"
+  },
+  {
+    "by": "vvviolet",
+    "descendants": 0,
+    "id": 23068457,
+    "score": 1,
+    "time": 1588602481,
+    "title": "Basic Keyboard Customization with QMK",
+    "type": "story",
+    "url": "https://vgpena.github.io/qmk/"
+  },
+  {
+    "by": "LinuxBender",
+    "descendants": 0,
+    "id": 23068455,
+    "score": 2,
+    "time": 1588602475,
+    "title": "Shade Threat Actors Call It Quits, Release 750K Encryption Keys",
+    "type": "story",
+    "url": "https://threatpost.com/shade-threat-actors-call-it-quits-release-750k-encryption-keys/155335/"
+  },
+  {
+    "by": "while1malloc0",
+    "descendants": 0,
+    "id": 23068447,
+    "score": 1,
+    "time": 1588602443,
+    "title": "Exploding Large Go Structs",
+    "type": "story",
+    "url": "https://breaking.computer/blog/exploding-large-go-structs"
+  },
+  {
+    "by": "russellluo",
+    "descendants": 0,
+    "id": 23068427,
+    "score": 1,
+    "time": 1588602348,
+    "title": "A generating toolkit of Go kit",
+    "type": "story",
+    "url": "https://github.com/RussellLuo/kok"
+  },
+  {
+    "by": "mrzool",
+    "descendants": 0,
+    "id": 23068410,
+    "score": 1,
+    "time": 1588602272,
+    "title": "Linkrot",
+    "type": "story",
+    "url": "https://macwright.org/2020/05/02/linkrot.html"
+  },
+  {
+    "by": "soygul",
+    "descendants": 0,
+    "id": 23068406,
+    "score": 2,
+    "time": 1588602262,
+    "title": "OBS Studio: Guide for Open-Source Video Recording and Live Streaming",
+    "type": "story",
+    "url": "https://quanticdev.com/articles/obs-studio"
+  },
+  {
+    "by": "jquave",
+    "descendants": 0,
+    "id": 23068399,
+    "score": 1,
+    "time": 1588602224,
+    "title": "Merge sort explained in 3 minutes",
+    "type": "story",
+    "url": "https://crunchskills.com/merge-sort-explained-in-3-minutes-get-ready-for-any-interview/"
+  },
+  {
+    "by": "ahmedbesbes",
+    "descendants": 0,
+    "id": 23068398,
+    "score": 1,
+    "time": 1588602211,
+    "title": "A Hacker’s Guide to Efficiently Train Deep Learning Models",
+    "type": "story",
+    "url": "https://medium.com/@ahmedbesbes/a-hackers-guide-to-efficiently-train-deep-learning-models-b2cccbd1bc0a"
+  },
+  {
+    "by": "jseliger",
+    "descendants": 0,
+    "id": 23068397,
+    "score": 1,
+    "time": 1588602209,
+    "title": "FDA Blocks Apple Watch Blood-Oxygen Feature That Would Help Millions",
+    "type": "story",
+    "url": "https://www.city-journal.org/fda-blocks-apple-watch-blood-oxygen-feature"
+  },
+  {
+    "by": "rbanffy",
+    "descendants": 0,
+    "id": 23068392,
+    "score": 1,
+    "time": 1588602197,
+    "title": "Apple Launches New 13“ MacBook Pro: 10th Gen Ice Lake and New Scissor Keyboard",
+    "type": "story",
+    "url": "https://www.anandtech.com/show/15760/apple-launches-new-13-macbook-pro"
+  },
+  {
+    "by": "overthelake",
+    "descendants": 1,
+    "id": 23068379,
+    "kids": [
+      23068430
+    ],
+    "score": 2,
+    "time": 1588602119,
+    "title": "Use Keybase PGP keys to sign Git commits",
+    "type": "story",
+    "url": "https://github.com/bsflw/harbour"
+  },
+  {
+    "by": "drocer88",
+    "descendants": 0,
+    "id": 23068369,
+    "score": 2,
+    "time": 1588602085,
+    "title": "Covid-19's class divide creates new political risks",
+    "type": "story",
+    "url": "https://thehill.com/homenews/senate/495886-covid-19s-class-divide-creates-new-political-risks"
+  },
+  {
+    "by": "gyre007",
+    "descendants": 0,
+    "id": 23068359,
+    "score": 2,
+    "time": 1588602012,
+    "title": "Build a Graph of Kubernetes API Objects in Go",
+    "type": "story",
+    "url": "https://cybernetist.com/2020/05/05/build-a-graph-of-kubernetes-api-objects-in-go/"
+  },
+  {
+    "by": "endlesstrax",
+    "descendants": 0,
+    "id": 23068348,
+    "score": 1,
+    "time": 1588601942,
+    "title": "Using Python Datetime to Work with Dates and Times",
+    "type": "story",
+    "url": "https://realpython.com/python-datetime/"
+  },
+  {
+    "by": "shakes",
+    "descendants": 0,
+    "id": 23068330,
+    "score": 1,
+    "time": 1588601849,
+    "title": "What to Code – Search or Create Ideas for Your Next Coding Project",
+    "type": "story",
+    "url": "https://what-to-code.com/"
+  },
+  {
+    "by": "dataking",
+    "descendants": 0,
+    "id": 23068323,
+    "score": 2,
+    "time": 1588601805,
+    "title": "Ubuntu 20.04: Welcome to the future, Linux LTS disciples",
+    "type": "story",
+    "url": "https://arstechnica.com/information-technology/2020/05/ubuntu-20-04-welcome-to-the-future-linux-lts-disciples/"
+  },
+  {
+    "by": "uptown",
+    "descendants": 1,
+    "id": 23068307,
+    "kids": [
+      23068371
+    ],
+    "score": 1,
+    "time": 1588601731,
+    "title": "Flattening the Truth on Coronavirus",
+    "type": "story",
+    "url": "https://www.nytimes.com/2020/05/03/opinion/dave-eggers-coronavirus-questions.html"
+  },
+  {
+    "by": "Cur1yJ",
+    "descendants": 0,
+    "id": 23068305,
+    "score": 1,
+    "time": 1588601726,
+    "title": "Spending Stimulus Checks. Curses and Energy",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=y5v9AwX_2Zk"
+  },
+  {
+    "by": "jchrisa",
+    "descendants": 0,
+    "id": 23068302,
+    "score": 1,
+    "time": 1588601718,
+    "title": "Bloom's 2 Sigma Problem",
+    "type": "story",
+    "url": "https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem"
+  },
+  {
+    "by": "sohamsankaran",
+    "descendants": 0,
+    "id": 23068293,
+    "score": 1,
+    "time": 1588601674,
+    "title": "Usability Squared: Principles for doing good systems research in robotics",
+    "type": "story",
+    "url": "https://arxiv.org/abs/1906.06775"
+  },
+  {
+    "by": "northfoxz",
+    "descendants": 0,
+    "id": 23068289,
+    "score": 1,
+    "time": 1588601652,
+    "title": "Generate faces with any features you want",
+    "type": "story",
+    "url": "https://github.com/switchablenorms/CelebAMask-HQ"
+  },
+  {
+    "by": "georgex7",
+    "descendants": 0,
+    "id": 23068267,
+    "score": 2,
+    "time": 1588601511,
+    "title": "Big Tech and Silicon Valley Was Not What I Expected",
+    "type": "story",
+    "url": "https://lifeshack.io/my-experience-of-silicon-valley-in-big-tech/"
+  },
+  {
+    "by": "olalonde",
+    "descendants": 0,
+    "id": 23068262,
+    "score": 1,
+    "time": 1588601450,
+    "title": "Rust: Enterprise Services Need Not Suck",
+    "type": "story",
+    "url": "https://medium.com/n-of-1/rust-enterprise-services-need-not-suck-679b79edcab5"
+  }
+]

@@ -1,0 +1,928 @@
+[
+  {
+    "by": "doronlinder",
+    "descendants": 20,
+    "id": 23066776,
+    "kids": [
+      23067908,
+      23067635,
+      23069038,
+      23068980,
+      23069079,
+      23067717,
+      23068856,
+      23068255,
+      23068869,
+      23068850,
+      23068149,
+      23067898,
+      23067746,
+      23067513,
+      23067676
+    ],
+    "score": 138,
+    "time": 1588592198,
+    "title": "Show HN: SQL Police Department – Learn SQL while solving crimes",
+    "type": "story",
+    "url": "https://sqlpd.com"
+  },
+  {
+    "by": "ArneVogel",
+    "descendants": 0,
+    "id": 23068967,
+    "score": 2,
+    "time": 1588605049,
+    "title": "Show HN: Knight Maneuver – A chess mini game",
+    "type": "story",
+    "url": "https://taktikspiel.com/app/knight-maneuver/"
+  },
+  {
+    "by": "igrabes",
+    "descendants": 0,
+    "id": 23067760,
+    "score": 3,
+    "time": 1588598814,
+    "title": "Show HN: Learn How to Build and Launch a Shopify App",
+    "type": "story",
+    "url": "https://courses.iangrabill.com/how-to-build-a-shopify-app?coupon=PREORDER"
+  },
+  {
+    "by": "leonagano",
+    "descendants": 0,
+    "id": 23067033,
+    "score": 2,
+    "text": "Last year a huge buzz was created when we first launched the website https:&#x2F;&#x2F;noageismintech.com here on HN (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20252097) but it was taken off due to lack of web traffic. I&#x27;m now relaunching this week as a newsletter first<p>If you want to diversify your team and hire &quot;older&quot; in tech, leave your opportunity below and it will be included in the first newsletter",
+    "time": 1588594561,
+    "title": "Show HN: Relaunching – Noageismintech.com",
+    "type": "story"
+  },
+  {
+    "by": "ryananime",
+    "descendants": 0,
+    "id": 23066426,
+    "score": 4,
+    "time": 1588588459,
+    "title": "Show HN: I built a tax calculator with JavaScript",
+    "type": "story",
+    "url": "https://www.taxmygig.com/"
+  },
+  {
+    "by": "pretzelhands",
+    "descendants": 1,
+    "id": 23065377,
+    "kids": [
+      23065389
+    ],
+    "score": 12,
+    "time": 1588576790,
+    "title": "Show HN: Notebag – A keyboard-focused note taking app",
+    "type": "story",
+    "url": "https://notebag.app"
+  },
+  {
+    "by": "okozzie",
+    "descendants": 6,
+    "id": 23062880,
+    "kids": [
+      23065704,
+      23064491
+    ],
+    "score": 17,
+    "time": 1588549856,
+    "title": "Show HN: Notepin – Extremely simple blogging platform",
+    "type": "story",
+    "url": "https://notepin.co"
+  },
+  {
+    "by": "leeoniya",
+    "descendants": 100,
+    "id": 23045207,
+    "kids": [
+      23045226,
+      23046641,
+      23046958,
+      23048491,
+      23045781,
+      23046244,
+      23047557,
+      23046049,
+      23045467,
+      23047044,
+      23046487,
+      23046887,
+      23046392,
+      23046533,
+      23051050,
+      23046663,
+      23046853,
+      23046449,
+      23047593,
+      23057990,
+      23045943,
+      23046319,
+      23058834,
+      23046171,
+      23046177,
+      23045855,
+      23047078,
+      23047904,
+      23050208,
+      23045621,
+      23047799,
+      23046808,
+      23046734,
+      23059465,
+      23047475,
+      23047546,
+      23048026,
+      23048909,
+      23046275,
+      23046994,
+      23047384,
+      23046196,
+      23048933,
+      23046799,
+      23046771,
+      23051314,
+      23047659
+    ],
+    "score": 773,
+    "time": 1588358652,
+    "title": "Show HN: Plotting 3 years of hourly data in 150ms",
+    "type": "story",
+    "url": "https://leeoniya.github.io/uPlot/demos/time-periods.html"
+  },
+  {
+    "by": "tobiask1",
+    "descendants": 0,
+    "id": 23062337,
+    "score": 5,
+    "time": 1588544314,
+    "title": "Show HN: TechStax – create a developer portfolio in 2 minutes",
+    "type": "story",
+    "url": "https://techstax.dev/"
+  },
+  {
+    "by": "shreyasminocha",
+    "descendants": 107,
+    "id": 23042079,
+    "kids": [
+      23047058,
+      23044790,
+      23042998,
+      23045264,
+      23043298,
+      23045504,
+      23042498,
+      23044855,
+      23047650,
+      23048551,
+      23044641,
+      23043053,
+      23047756,
+      23042496,
+      23044370,
+      23043949,
+      23045727,
+      23043426,
+      23046149,
+      23046770,
+      23046468,
+      23043435,
+      23043673,
+      23047730,
+      23047486,
+      23042445,
+      23042710,
+      23046797,
+      23042458,
+      23045795,
+      23044108,
+      23044467,
+      23048603,
+      23045273,
+      23046279,
+      23045518,
+      23044060,
+      23044038,
+      23045274,
+      23044188,
+      23043645,
+      23043655,
+      23046284,
+      23042615,
+      23046879,
+      23046516
+    ],
+    "score": 493,
+    "time": 1588341956,
+    "title": "Show HN: RegEx for Regular Folk – A visual, example-based introduction",
+    "type": "story",
+    "url": "https://refrf.shreyasminocha.me"
+  },
+  {
+    "by": "ColinEberhardt",
+    "descendants": 10,
+    "id": 23049930,
+    "kids": [
+      23052962,
+      23054395,
+      23053103,
+      23054087
+    ],
+    "score": 195,
+    "time": 1588402904,
+    "title": "Show HN: Rendering One Million Datapoints with D3 and WebGL",
+    "type": "story",
+    "url": "https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html"
+  },
+  {
+    "by": "antonzorin",
+    "descendants": 18,
+    "id": 23051064,
+    "kids": [
+      23051065,
+      23058359,
+      23058507,
+      23056147,
+      23056709,
+      23056655,
+      23060816
+    ],
+    "score": 43,
+    "time": 1588418222,
+    "title": "Show HN: Connect customer feedback to your roadmap",
+    "type": "story",
+    "url": "https://prodcamp.com"
+  },
+  {
+    "by": "Alex-Potsides",
+    "descendants": 20,
+    "id": 23058070,
+    "kids": [
+      23059302,
+      23060402,
+      23060394,
+      23058639,
+      23060590,
+      23058485,
+      23058451
+    ],
+    "score": 100,
+    "time": 1588500691,
+    "title": "Show HN: AvionDB: A Decentralised Database with MongoDB-like Developer Interface",
+    "type": "story",
+    "url": "https://github.com/dappkit/aviondb"
+  },
+  {
+    "by": "jessehorne",
+    "descendants": 90,
+    "id": 23042558,
+    "kids": [
+      23042842,
+      23045374,
+      23048343,
+      23047710,
+      23048254,
+      23047340,
+      23046918,
+      23048577,
+      23047091,
+      23047211,
+      23048351,
+      23048135,
+      23047304,
+      23048064,
+      23050050,
+      23049693,
+      23045463,
+      23045973,
+      23042908,
+      23046043,
+      23047520,
+      23047086,
+      23047164,
+      23048384
+    ],
+    "score": 360,
+    "time": 1588344925,
+    "title": "Show HN: Ameelio.org – Free Prison Communication Platform",
+    "type": "story",
+    "url": "https://ameelio.org/"
+  },
+  {
+    "by": "kipi",
+    "descendants": 19,
+    "id": 23052152,
+    "kids": [
+      23058524,
+      23059270,
+      23058900,
+      23057823,
+      23055922,
+      23057009,
+      23057060,
+      23058059,
+      23058930
+    ],
+    "score": 89,
+    "time": 1588431861,
+    "title": "Show HN: Quake 1 movement physics reinforcement learning project",
+    "type": "story",
+    "url": "https://github.com/matthewearl/q1physrl"
+  },
+  {
+    "by": "jacobglowbom",
+    "descendants": 14,
+    "id": 23054316,
+    "kids": [
+      23059517,
+      23054326,
+      23057597,
+      23056765,
+      23059522
+    ],
+    "score": 42,
+    "time": 1588448407,
+    "title": "Show HN: Create your own mobile ordering app without code, using a Google Sheet",
+    "type": "story",
+    "url": "https://glowbom.com/help/"
+  },
+  {
+    "by": "agrafix",
+    "descendants": 1,
+    "id": 23062899,
+    "kids": [
+      23063069
+    ],
+    "score": 6,
+    "time": 1588550175,
+    "title": "Show HN: Board – A Collaborative Whiteboarding Tool",
+    "type": "story",
+    "url": "https://letsboard.co/"
+  },
+  {
+    "by": "jranand",
+    "descendants": 0,
+    "id": 23058445,
+    "score": 9,
+    "time": 1588506428,
+    "title": "Show HN: Design, Code and Publish Static Websites / JAMStack Apps to Netlify",
+    "type": "story",
+    "url": "https://www.gridbox.io/"
+  },
+  {
+    "by": "m1guelpf",
+    "descendants": 58,
+    "id": 23043705,
+    "kids": [
+      23045670,
+      23046916,
+      23043997,
+      23044207,
+      23044015,
+      23046550,
+      23051177,
+      23045995,
+      23049637,
+      23046877,
+      23045243,
+      23047231,
+      23048357,
+      23044753,
+      23044701,
+      23051430,
+      23045826,
+      23050268,
+      23048831,
+      23044986,
+      23044259,
+      23047003,
+      23052005,
+      23044312,
+      23045263
+    ],
+    "score": 184,
+    "time": 1588350261,
+    "title": "Show HN: Generate a static website from any back end",
+    "type": "story",
+    "url": "https://sitesauce.app"
+  },
+  {
+    "by": "xcodebuild",
+    "descendants": 0,
+    "id": 23039815,
+    "score": 27,
+    "time": 1588317880,
+    "title": "Show HN: LightProxy – Web debugging proxy alternative to Charles",
+    "type": "story",
+    "url": "https://github.com/alibaba/lightproxy/issues/117"
+  },
+  {
+    "by": "oscar_franco13",
+    "descendants": 10,
+    "id": 23039568,
+    "kids": [
+      23039569,
+      23047505,
+      23047649,
+      23047581
+    ],
+    "score": 20,
+    "time": 1588314324,
+    "title": "Show HN: Tempomat, a CI Monitoring Tool",
+    "type": "story",
+    "url": "https://tempomat.dev"
+  },
+  {
+    "by": "qabilzahari",
+    "descendants": 66,
+    "id": 23039648,
+    "kids": [
+      23040741,
+      23040686,
+      23041305,
+      23040875,
+      23040123,
+      23040271,
+      23040211,
+      23046956,
+      23041178,
+      23040171,
+      23041761,
+      23055291,
+      23040250,
+      23040199,
+      23041325,
+      23040450
+    ],
+    "score": 61,
+    "time": 1588315781,
+    "title": "Show HN: An easy and simple landing page builder",
+    "type": "story",
+    "url": "https://oneprofile.page"
+  },
+  {
+    "by": "WayfindMaps",
+    "descendants": 2,
+    "id": 23052857,
+    "kids": [
+      23052858
+    ],
+    "score": 5,
+    "time": 1588437349,
+    "title": "Show HN: Wayfind Maps – For Navigating Apartment Complexes in DFW",
+    "type": "story",
+    "url": "https://www.wayfindmaps.com/"
+  },
+  {
+    "by": "int0x80",
+    "descendants": 0,
+    "id": 23052847,
+    "score": 7,
+    "time": 1588437326,
+    "title": "Show HN: Small Lisp in Kotlin",
+    "type": "story",
+    "url": "https://github.com/Javier-Barrio/klisp"
+  },
+  {
+    "by": "Jaja321",
+    "descendants": 1,
+    "id": 23051518,
+    "kids": [
+      23063100
+    ],
+    "score": 10,
+    "time": 1588424525,
+    "title": "Show HN: A web app that charts any TV show's IMDB ratings, by episode",
+    "type": "story",
+    "url": "https://tvchart.benmiz.com/"
+  },
+  {
+    "by": "mimixco",
+    "descendants": 1,
+    "id": 23043417,
+    "kids": [
+      23043424
+    ],
+    "score": 10,
+    "time": 1588348931,
+    "title": "Show HN: Nebula - Cross-Platform Electron Apps and WebSockets",
+    "type": "story",
+    "url": "https://mimix.io/nebula-tech/"
+  },
+  {
+    "by": "alexilyaev",
+    "descendants": 0,
+    "id": 23057618,
+    "score": 5,
+    "time": 1588493023,
+    "title": "Show HN: Delightful interactive CLI to quickly run NPM scripts",
+    "type": "story",
+    "url": "https://github.com/alexilyaev/runrun-cli"
+  },
+  {
+    "by": "heofizzy",
+    "descendants": 0,
+    "id": 23055498,
+    "score": 5,
+    "time": 1588459839,
+    "title": "Show HN: Curated SaaS Inspiration List",
+    "type": "story",
+    "url": "https://saasinspire.com"
+  },
+  {
+    "by": "edance",
+    "descendants": 2,
+    "id": 23044890,
+    "kids": [
+      23045562,
+      23044898,
+      23054958
+    ],
+    "score": 10,
+    "time": 1588356850,
+    "title": "Show HN: GramGram – Send Instagram photos to your Grandma through the mail",
+    "type": "story",
+    "url": "https://www.gramgram.app/"
+  },
+  {
+    "by": "scoresmoke",
+    "descendants": 4,
+    "id": 23054322,
+    "kids": [
+      23055304,
+      23054911
+    ],
+    "score": 3,
+    "time": 1588448429,
+    "title": "Show HN: Ballcone is a fast and lightweight server-side Web analytics solution",
+    "type": "story",
+    "url": "https://github.com/dustalov/ballcone"
+  },
+  {
+    "by": "jamestimmins",
+    "descendants": 1,
+    "id": 23054015,
+    "kids": [
+      23054106
+    ],
+    "score": 3,
+    "time": 1588445764,
+    "title": "Show HN: Automated Follows Ups on Slack",
+    "type": "story",
+    "url": "https://www.getitdonezo.com"
+  },
+  {
+    "by": "Mulder90",
+    "descendants": 1,
+    "id": 23053550,
+    "kids": [
+      23053551
+    ],
+    "score": 2,
+    "time": 1588441972,
+    "title": "Show HN: SoundsMix – Mix sounds to help relax, study or work",
+    "type": "story",
+    "url": "https://soundsmix.xyz"
+  },
+  {
+    "by": "slavomirvojacek",
+    "descendants": 0,
+    "id": 23052446,
+    "score": 2,
+    "time": 1588434819,
+    "title": "Show HN: Elixir RabbitMQ client designed for balance and consistency",
+    "type": "story",
+    "url": "https://github.com/hqoss/rabbit_mq"
+  },
+  {
+    "by": "herve76",
+    "descendants": 0,
+    "id": 23052411,
+    "score": 3,
+    "time": 1588434562,
+    "title": "Show HN: Where are other HN readers live in the world?",
+    "type": "story",
+    "url": "https://g3o.link/hn"
+  },
+  {
+    "by": "stfurkan",
+    "descendants": 1,
+    "id": 23046561,
+    "kids": [
+      23046589
+    ],
+    "score": 5,
+    "time": 1588367642,
+    "title": "Show HN: Open-Source Virtual Tour Database",
+    "type": "story",
+    "url": "https://github.com/stfurkan/gez"
+  },
+  {
+    "by": "dbpprt",
+    "descendants": 0,
+    "id": 23051750,
+    "score": 3,
+    "time": 1588427233,
+    "title": "Show HN: Pretrained Pytorch license plate segmentation model",
+    "type": "story",
+    "url": "https://github.com/dennisbappert/pytorch-licenseplate-segmentation/"
+  },
+  {
+    "by": "jacksgt",
+    "descendants": 1,
+    "id": 23051562,
+    "kids": [
+      23051577
+    ],
+    "score": 2,
+    "time": 1588424999,
+    "title": "Show HN: Programmatically build and publish AWS Lambda layers defined in YAML",
+    "type": "story",
+    "url": "https://github.com/jacksgt/lambda-layer-tool"
+  },
+  {
+    "by": "chkas",
+    "descendants": 0,
+    "id": 23051268,
+    "score": 4,
+    "time": 1588421348,
+    "title": "Show HN: Programming Basics in 20 Minutes",
+    "type": "story",
+    "url": "https://easylang.online/apps/tutorial_learn.html"
+  },
+  {
+    "by": "harryleeming",
+    "descendants": 2,
+    "id": 23051248,
+    "kids": [
+      23052545
+    ],
+    "score": 5,
+    "time": 1588420979,
+    "title": "Show HN: Build your own local lockdown economy",
+    "type": "story",
+    "url": "https://www.edinburghlockdowneconomy.com/your-local-lockdown-economy"
+  },
+  {
+    "by": "greatwave1",
+    "descendants": 0,
+    "id": 23043682,
+    "score": 5,
+    "time": 1588350169,
+    "title": "Show HN: Tracking an investment portfolio based on r/WallStreetsBets discussion",
+    "type": "story",
+    "url": "https://www.quiverquant.com/wallstreetbets/"
+  },
+  {
+    "by": "eatthatpie",
+    "descendants": 1,
+    "id": 23051136,
+    "kids": [
+      23051142
+    ],
+    "score": 3,
+    "time": 1588419422,
+    "title": "Show HN: 8kB router for React with route transition and middleware support",
+    "type": "story",
+    "url": "https://github.com/eatthatpie/react-router"
+  },
+  {
+    "by": "ohvirginia",
+    "descendants": 1,
+    "id": 23051005,
+    "kids": [
+      23051012
+    ],
+    "score": 2,
+    "time": 1588417376,
+    "title": "Show HN: Email verified signup on GCP f1-micro",
+    "type": "story",
+    "url": "http://devtest.awful.email/signup.html"
+  },
+  {
+    "by": "owenshen24",
+    "descendants": 0,
+    "id": 23056888,
+    "score": 7,
+    "time": 1588480617,
+    "title": "Show HN: Simple script that turns Chinese characters into Anki cards",
+    "type": "story",
+    "url": "https://github.com/owenshen24/chinese-auto-anki"
+  },
+  {
+    "by": "nsamala",
+    "descendants": 2,
+    "id": 23048177,
+    "kids": [
+      23050540
+    ],
+    "score": 3,
+    "time": 1588381975,
+    "title": "Show HN: Ghost Drive – Sim Racing Using Your Car as a Controller",
+    "type": "story",
+    "url": "https://outlandnish.com/blog/ditch-the-sim-rig-use-your-car-instead/"
+  },
+  {
+    "by": "lewisjkl",
+    "descendants": 0,
+    "id": 23046945,
+    "score": 4,
+    "time": 1588370150,
+    "title": "Show HN: Convert GIFs to Zoom Virtual Backgrounds",
+    "type": "story",
+    "url": "http://gif2zoom.com"
+  },
+  {
+    "by": "Heffay626",
+    "descendants": 1,
+    "id": 23046360,
+    "kids": [
+      23047598
+    ],
+    "score": 3,
+    "time": 1588366398,
+    "title": "Show HN: A fun political personality test to inspire voters by matching values",
+    "type": "story",
+    "url": "https://www.politicalpersonality.org/"
+  },
+  {
+    "by": "litehousepress",
+    "descendants": 1,
+    "id": 23045265,
+    "kids": [
+      23045327
+    ],
+    "score": 3,
+    "time": 1588359038,
+    "title": "Show HN: Create a Digital Story",
+    "type": "story",
+    "url": "https://litehouse.press/"
+  },
+  {
+    "by": "jventura",
+    "descendants": 2,
+    "id": 23043172,
+    "kids": [
+      23046050,
+      23046826
+    ],
+    "score": 4,
+    "time": 1588347713,
+    "title": "Show HN: MockREST – REST APIs from JSON Text",
+    "type": "story",
+    "url": "http://mockrest.com/"
+  },
+  {
+    "by": "zakokor",
+    "descendants": 1,
+    "id": 23042446,
+    "kids": [
+      23042447
+    ],
+    "score": 4,
+    "time": 1588344194,
+    "title": "Show HN: My first open source project",
+    "type": "story",
+    "url": "https://github.com/zakokor/pegao"
+  },
+  {
+    "by": "ricokahler",
+    "descendants": 0,
+    "id": 23041425,
+    "score": 3,
+    "time": 1588337114,
+    "title": "Show HN: React-Style-System, a new CSS-in-JS lib with static CSS support",
+    "type": "story",
+    "url": "https://github.com/ricokahler/react-style-system"
+  },
+  {
+    "by": "21stio",
+    "descendants": 2,
+    "id": 23041324,
+    "kids": [
+      23041465
+    ],
+    "score": 5,
+    "time": 1588336248,
+    "title": "Show HN: Most Advanced HackerNews API",
+    "type": "story",
+    "url": "https://metamate.io/blog/most-advanced-hackernews-api/"
+  },
+  {
+    "by": "kmille",
+    "descendants": 0,
+    "id": 23041046,
+    "score": 2,
+    "time": 1588332956,
+    "title": "Show HN: Linux Networking – How Does the Accept Queue Work?",
+    "type": "story",
+    "url": "https://github.com/kmille/linux-accept-queue"
+  },
+  {
+    "by": "veraero",
+    "descendants": 1,
+    "id": 23039714,
+    "kids": [
+      23039715
+    ],
+    "score": 3,
+    "time": 1588316604,
+    "title": "Show HN: Forecast popular times of public businesses and analytics",
+    "type": "story",
+    "url": "https://besttime.app/"
+  },
+  {
+    "by": "chinmays",
+    "descendants": 0,
+    "id": 23047184,
+    "kids": [
+      23047282
+    ],
+    "score": 10,
+    "time": 1588372026,
+    "title": "Show HN: I built a Full Stack Application in 36 hours",
+    "type": "story",
+    "url": "https://medium.com/@chinmay_shah/how-i-built-a-full-stack-email-service-in-36-hours-1d434ce3341f"
+  },
+  {
+    "by": "tryamtamtam",
+    "descendants": 1,
+    "id": 23047612,
+    "kids": [
+      23047613
+    ],
+    "score": 3,
+    "time": 1588376212,
+    "title": "Show HN: Connect.Club for Virtual Networking",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?time_continue=36&v=yA15sKRJx0k&feature=emb_title"
+  },
+  {
+    "by": "jchandra",
+    "descendants": 0,
+    "id": 23040543,
+    "score": 2,
+    "time": 1588326709,
+    "title": "Show HN: Go Anthem",
+    "type": "story",
+    "url": "https://youtu.be/LJvEIjRBSDA"
+  },
+  {
+    "by": "zzo38computer",
+    "descendants": 0,
+    "id": 23060746,
+    "score": 1,
+    "text": "TeXnicard is a program to make card databases, querying, collaboration, and rendering, for such card games as Magic: the Gathering. It is an alternative to Magic Set Editor. TeXnicard is public domain, but depends on Ghostscript, so you must follow the terms of AGPL3 if you distribute the compiled software or if you make it available to operate over a network (unless you acquire a commercial license from Artifex).<p>Perhaps you might be interested to look at it if you are interested in such thing as designing custom cards for these kind of card games, and&#x2F;or if you are designing your own card game(s).<p>While it is far from complete, many features have already been implemented, and there are many features which can be tried. It is enough to start making your own card set, or your own major template for your own card game design. You can even make minor templates, although paragraph formatting is not yet implemented. There are also many other features implemented already, although some are incomplete.<p>There is a Fossil repository at: http:&#x2F;&#x2F;zzo38computer.org&#x2F;fossil&#x2F;texnicard.ui<p>Please join the NNTP if you are interested in it and want to discuss it. (If you prefer, you can also post comments here, although the NNTP is the preferred way to make discussions.)<p>You can also try to contribute if you like to, whether bug reports, complaints, questions, documentation improvements, code improvements, etc.",
+    "time": 1588529172,
+    "title": "Show HN: TeXnicard",
+    "type": "story"
+  },
+  {
+    "by": "daniel_sushil",
+    "descendants": 1,
+    "id": 23060586,
+    "kids": [
+      23060658
+    ],
+    "score": 1,
+    "time": 1588527860,
+    "title": "Show HN: Finally a modern vault for families that is simple, fast and reliable",
+    "type": "story",
+    "url": "https://www.secureappy.com/"
+  },
+  {
+    "by": "tigroferoce",
+    "descendants": 0,
+    "id": 23060345,
+    "score": 1,
+    "time": 1588525960,
+    "title": "Show HN: Cver- A simple tool to quickly identify groups of tabs when minimized",
+    "type": "story",
+    "url": "https://cver.vernizzis.it"
+  },
+  {
+    "by": "brunoraljic",
+    "descendants": 1,
+    "id": 23060089,
+    "kids": [
+      23060529
+    ],
+    "score": 2,
+    "time": 1588523946,
+    "title": "Show HN: Fully incognito subscriptions – No fake names, no throwaway emails",
+    "type": "story",
+    "url": "https://www.beeinformed.app"
+  },
+  {
+    "by": "jayparth",
+    "descendants": 0,
+    "id": 23060035,
+    "score": 7,
+    "time": 1588523537,
+    "title": "Show HN: Secure Autocomplete for Desktop",
+    "type": "story",
+    "url": "https://tabcomplete.app/"
+  }
+]
