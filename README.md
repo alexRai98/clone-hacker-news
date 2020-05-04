@@ -14,7 +14,7 @@ how HN only shows the hostname in the landing page.
 
 ## Extra
 
-Use the HN API to add the pages:
+Use the [HN API](https://github.com/HackerNews/API) to add the pages:
 - [newest](https://news.ycombinator.com/newest)
 - [ask](https://news.ycombinator.com/ask)
 - [show](https://news.ycombinator.com/show)
