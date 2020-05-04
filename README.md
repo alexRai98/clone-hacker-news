@@ -46,8 +46,20 @@ navbar that corresponds to it has a white active state.
 If you got to [new](https://news.ycombinator.com/newest), the `new` link
 is highlighted white.
 
-Use the HN API to add the pages:
-- [newest](https://news.ycombinator.com/newest)
-- [ask](https://news.ycombinator.com/ask)
-- [show](https://news.ycombinator.com/show)
-- [jobs](https://news.ycombinator.com/jobs)
+### Add pagination
+
+You have 100 stories in each stories file, but each page only have 30 stories.
+
+To allow an user to see more, you can use pagination. For that, use a query
+param `page` to pass to the server which page is required.
+
+For `page=1` you show the first 30 items. You also show the first 30 items
+if no page is specified.
+
+For `page=2` you the next 30 items. For `page=3` you show the next 30 and so on.
+
+Clicking the `more` button at the end of the page would send you to the next page.
+
+For the last page (page 4), don't show the `more` button at the end of the page.
+Instead of determining this by the number of the page, check how many `stories` you
+are rendering, and if they are less than 30, it means that it is the last page.
