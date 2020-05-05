@@ -1,0 +1,31 @@
+
+<% @stories.each do |post| %>
+    <div class="post">
+        <div class="post-number">
+            <h4> # <a href=""><img src="images/snep.svg" alt=""></a></h4>
+        </div>
+        <div class="post-content">
+            <div class="post-content__head">
+                <h4 class="post__title"><%= post["title"] %> <a href=""> </a></h4>
+                <span class="post__autor"> <a href="" >(github.com)</a></span>
+            </div>
+            <div class="post-content__footer">
+                <ul class="post-score">
+                    <li class="post-points"> 
+                        <p><%= post["score"] %> points by 
+                            <a href=""><%= post["by"] %></a>
+                            <a href="" class="post-links"><%= post["time_lg"]%> ago</a>
+                        </p>
+                    </li>
+                    <li class="post-points"> 
+                        <a href="" class="post-links">hide</a>
+                    </li>
+                    <li class="post-points"> 
+                        <a href="" class="post-links"><%= post["descendants"]%> comments</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div> 
+<% end %>
