@@ -30,6 +30,10 @@ li{
     align-items: center;
     height: 24px;
 }
+.navbar-logo{
+    display: flex;
+    align-items: center;
+}
 .navbar-name{
     margin: 0px 9px 0px 4px;
     font-size: 12px;
@@ -53,6 +57,11 @@ li{
     display: flex;
      margin-top: 5px;
 }
+.post-number{
+    color: #828282;
+    font-weight: normal;
+    font-size: 12px;
+}
 .post-content{
     display: flex;
     flex-direction: column;
@@ -67,7 +76,7 @@ li{
     font-size: 11px;
     font-weight: normal;
 }
-.post__autor a{
+.post__autor {
     margin-left: 10px;
     font-size: 9px;
     color: #828282;

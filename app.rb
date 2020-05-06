@@ -3,12 +3,24 @@ require "sinatra/reloader" if development?
 require "time_difference"
 require "json"
 
+
 helpers do
   # Takes a time object and returns how much time has passed
   # since that provided time as a humanized string.
   def time_since_in_words(date)
     TimeDifference.between(date, Time.now).humanize
   end
+  def load_file (file)
+    load_file= File.read(file)
+    JSON.parse(load_file)
+  end
+  def time_ago(time)
+    time_since_in_words(Time.at(time)).split(",")[0]
+  end
+  def extract_path(url)
+    url.match(/https?:\/\/(?<path>[\w.]+)\/.+/)[:path]
+  end
+  
 end
 
 # time_since_win_words helper demostration
@@ -18,15 +30,9 @@ get "/" do
 end
 
 get "/hackerNews" do
-  file= File.read("stories.json")
-  @stories = JSON.parse(file)
-  @stories.map{|post|
-    time = Time.now - post["time"]
-    post["time_lg"] = time_since_in_words(time).split(",")[0]
-  }
-  @stories.map{|post|
-    url = post["url"].match(/https?:\/\/(?<path>[\w.]+)\/.+/)
-    post["urls"] = url[:path]
-  }
+  @stories = load_file("stories.json")
+  @page = params.fetch("page",1).to_i
+  @pagination = Pagination.new(@stories,@page)
   erb :index
 end
+
